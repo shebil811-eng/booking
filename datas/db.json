@@ -1,0 +1,206 @@
+{
+  "register": [
+    {
+      "id": "846d",
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "password": "ram123",
+      "phone": "8678923564",
+      "country": "india",
+      "pincode": "658725",
+      "city": "",
+      "gender": "male",
+      "message": "very urgent situtions",
+      "place": "Malppuram"
+    },
+    {
+      "id": "512e",
+      "name": "kuruvilla",
+      "email": "kuru@gmail.com",
+      "password": "kuruvila123",
+      "phone": "9654324521",
+      "country": "india",
+      "pincode": "659865",
+      "city": "",
+      "gender": "male",
+      "message": "very urgent",
+      "place": "palakad"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "Admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "be63",
+      "name": "ramkumar.ks",
+      "email": "ram@gmail.com",
+      "password": "ram123",
+      "education": "MBBS BA",
+      "image": "C:\\fakepath\\doc1.jpg",
+      "role": "Docter",
+      "department": "Emergency Care",
+      "Availablity": "Available"
+    },
+    {
+      "id": "5c61",
+      "name": "Sandhosh v",
+      "email": "sandhosh@gmail.com",
+      "password": "sandhosh123",
+      "education": "MBBS MD",
+      "image": "C:\\fakepath\\doc2.jpg",
+      "role": "Docter",
+      "department": "Emergency Care",
+      "Availablity": "Not Available"
+    },
+    {
+      "id": "e733",
+      "name": "kuruvilla k",
+      "email": "kuruvila@gmail.com",
+      "password": "kuru123",
+      "education": "MBBS BA",
+      "image": "C:\\fakepath\\doc3.webp",
+      "role": "Docter",
+      "department": "Emergency Care",
+      "Availablity": "Available"
+    },
+    {
+      "id": "8b2e",
+      "name": "shibil",
+      "email": "shibil@gmail.com",
+      "password": "shibil",
+      "education": "MBBS MB BS BA",
+      "image": "C:\\fakepath\\s1.jpg",
+      "role": "Docter",
+      "department": "Home Care"
+    },
+    {
+      "id": "dcb7",
+      "name": "mohan",
+      "email": "mohan@gmail.com",
+      "password": "mohan1",
+      "education": "MBBS MB BS BA",
+      "image": "C:\\fakepath\\s1.jpg",
+      "role": "Docter",
+      "department": "Diagnostic services",
+      "Availablity": "Not Available"
+    }
+  ],
+  "booking": [
+    {
+      "id": "7553",
+      "name": "anu",
+      "age": "20",
+      "phonenumber": "9178432100",
+      "date": "2025-02-27"
+    },
+    {
+      "id": "1d8a",
+      "name": "rohan",
+      "age": "22",
+      "phonenumber": "9034232133",
+      "date": "2025-03-12"
+    },
+    {
+      "id": "db66",
+      "name": "rohan",
+      "age": "22",
+      "phonenumber": "9034232133",
+      "date": "2025-03-12"
+    },
+    {
+      "id": "d0e8",
+      "name": "rohan",
+      "age": "22",
+      "phonenumber": "9034232133",
+      "date": "2025-03-12"
+    },
+    {
+      "id": "767b",
+      "name": "rohan",
+      "age": "22",
+      "phonenumber": "9034232133",
+      "date": "2025-03-12"
+    },
+    {
+      "id": "101a",
+      "name": "ajmal",
+      "age": "24",
+      "phonenumber": "908754341",
+      "date": "2025-03-19"
+    },
+    {
+      "id": "b977",
+      "name": "ajmal",
+      "age": "20",
+      "phonenumber": "887658900",
+      "date": "2025-03-19"
+    },
+    {
+      "id": "ae85",
+      "name": "ajmal",
+      "age": "21",
+      "phonenumber": "7890554300",
+      "date": "2025-03-19"
+    },
+    {
+      "id": "e3ee",
+      "name": "rohith",
+      "age": "45",
+      "phonenumber": "90768901",
+      "date": "2025-03-19"
+    },
+    {
+      "id": "82fd",
+      "name": "rahul",
+      "age": "36",
+      "phonenumber": "9846310290",
+      "date": "2025-03-19"
+    },
+    {
+      "id": "322b",
+      "name": "roshni",
+      "age": "18",
+      "phonenumber": "964521366",
+      "date": "2025-03-19"
+    }
+  ],
+  "Availiblity": [
+    {
+      "id": "1",
+      "name": "ramkumar",
+      "Available": "not Available"
+    }
+  ],
+  "messages": [
+    {
+      "id": "d3fd",
+      "name": "ajay",
+      "message": "Message :\ntoday dr ramkumar is avialable"
+    },
+    {
+      "id": "64a4",
+      "name": "raaahul",
+      "message": "Message:very good hospital"
+    },
+    {
+      "id": "a93f",
+      "name": "abijith",
+      "message": "Message:very peacefull"
+    },
+    {
+      "id": "6a55",
+      "name": "abijith",
+      "message": "Message:very peacefull"
+    },
+    {
+      "id": "ea67",
+      "name": "rahul",
+      "message": "Message:drs"
+    }
+  ]
+}

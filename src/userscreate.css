@@ -1,0 +1,37 @@
+.hos{
+    background-image: url("cute.webp");
+    
+    
+}
+
+.users{
+    box-shadow: 0px 1px 2px black;
+    width: 70%;
+    height: 800px;
+    justify-self: center;
+    padding: 10px;
+    margin: 20px;
+    margin-bottom: 10px;
+    
+    background-color: rgb(240, 248, 255);
+    border: none;
+
+}
+.users h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.users input{
+    width: 90%;
+    padding: 12px 12px;
+    margin-left: 10px;
+    margin: 20px;
+}
+.users button{
+    width: 200px;
+    padding: 12px 12px;
+    background-color: rgb(50, 26, 63);
+    color: white;
+    margin: 20px;
+    float: right;
+    margin-right: 60px;
+}

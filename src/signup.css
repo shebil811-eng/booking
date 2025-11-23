@@ -1,0 +1,54 @@
+
+.form{
+    position: absolute;
+    right: 0;
+    margin: 50px;
+    width: 40%;
+    height: 350px;
+    background-color: white;
+    box-shadow: 0px 7px 10px black;
+    justify-self: center;
+    
+    align-self: center;
+
+}
+.form h1{
+    margin-left: 80px;
+}
+.form h1,h2{
+    text-align: center;
+
+}
+.form input{
+    width: 85%;
+    margin: 10px;
+    margin-left: 30px;
+    padding: 10px 10px;
+    border: none;
+    border-bottom: 1px solid black;
+
+
+}
+.form button{
+    margin-left: 40px;
+    padding: 5px 5px;
+    background-color: blue;
+    width: 85%;
+    
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: medium;
+    border: none;
+    
+}
+.form p{
+    text-align: center;
+}
+#tag{
+    float: right;
+    width: 10%;
+    border: none;
+    outline: none;
+}
+

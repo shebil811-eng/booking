@@ -1,0 +1,72 @@
+
+.books{
+    border: none;
+    width: 45%;
+    display: flex;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    justify-self: center;
+    padding-left: 20px;
+    height: 450px;
+    padding-top: 45px;
+    justify-items: center;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   margin-top: 55%;
+   
+  
+    
+    overflow: hidden;
+}
+.books h3{
+    text-align: center;
+}
+.books input{
+    width: 70%;
+    padding: 10px 10px;
+    margin: 10px;
+    justify-self: center;
+}
+.books #age{
+    width: 15%;
+}
+.books #username,#date{
+    width: 90%;
+}
+
+.books button{
+    background-color: brown;
+    color: white;
+    padding: 15px 15px;
+    border: none;
+    width: 30%;
+    margin-right: 10px;
+    float: right;
+    margin-top: 20px;
+   
+}
+.books button:hover{
+    background-color: rgb(139, 81, 81);
+}
+.books #close{
+    width: 10%;
+   
+    top: 0;
+    left: 30px;
+    float: right;
+    font-size: large;
+}
+.books #close:hover{
+    background-color: rgb(83, 110, 110)
+
+}
+@media(max-width:600px){
+    .books{
+        flex-direction: column;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+}

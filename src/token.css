@@ -1,0 +1,18 @@
+.token{
+    box-shadow: 0px 1px 2px black;
+    color: yellow;
+background-color: rgb(51, 32, 70);
+width: 50%;
+height: 100px;
+margin: 380px;
+margin-bottom: 100px;
+align-items: center;
+justify-content: center;
+left: 0;
+right: 0;
+top: 40;
+padding-top: 20px;
+}
+.token span{
+    color: red;
+}

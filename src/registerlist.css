@@ -1,0 +1,15 @@
+.home2{
+    border: none;
+    width: 90%;
+    justify-self: center;
+    margin-bottom: 50%;
+}
+.headingtitile th,.values td{
+    border-bottom: 1px solid black;
+    padding: 25px 25px;
+    text-align: center;
+}
+#doc{
+    text-align: center;
+    font-size: larger;
+}
