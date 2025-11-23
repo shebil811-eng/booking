@@ -150,16 +150,27 @@ p{
   
     .services,#service2{ 
         flex-direction: column;
-        max-width: 100%;
+        width: 100%;
         padding: 10;
         margin: 0;
         padding: 15px 15px;
       
+    }
+   .services #ser{
+    margin: 0;
+        width: 100%;
+    }
+    #service2 #ser{
+        width: 100%;
+        margin: 0;
     }
     h1{
         font-size: medium;
     }
      #btn{
         display: flex;
+    }
+    #contact .design,.design1,.design2{
+        display: none;
     }
 }
