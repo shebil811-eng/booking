@@ -134,11 +134,8 @@
 
 @media(max-width:600px){
     
-    .pic{
-        padding: 0;
-        margin:0;
-        height: 100vh;
-    }
+    
+    
     .heading{
         flex-direction: column;
         font-size: medium;
@@ -153,7 +150,7 @@
        
         flex-direction: column;
         width: 100%;
-top: 32%;
+
 max-height: 100%;     
 
 
