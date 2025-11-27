@@ -51,4 +51,15 @@
     border: none;
     outline: none;
 }
+@media(max-width:500px){
+    .form{
+        position: relative;
+        right: 0;
+    width:  90%;
+    height: 300px;
+    }
+    .form h1{
+        left: 10%;
+    }
+}
 

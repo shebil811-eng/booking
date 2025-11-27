@@ -54,3 +54,17 @@
     outline: none;
 }
 
+@media(max-width:500px){
+    .userlogin{
+        margin: 0;
+        right: 0;
+        top: 30%;
+    width:  90%;
+    height: 300px;
+    
+    }
+    .userlogin h1{
+        right: 0;
+    }
+}
+

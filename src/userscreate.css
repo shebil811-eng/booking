@@ -35,3 +35,16 @@
     float: right;
     margin-right: 60px;
 }
+@media(max-width:500px){
+    
+.users{
+        position: relative;
+        right: 0;
+    width:  90%;
+    height: 300px;
+    }
+    
+.users h1{
+        left: 10%;
+    }
+}

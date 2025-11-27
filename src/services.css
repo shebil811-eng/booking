@@ -151,7 +151,7 @@ p{
     .services,#service2{ 
         flex-direction: column;
         width: 100%;
-        padding: 10;
+        padding: 50px;
         margin: 0;
         padding: 15px 15px;
       
@@ -159,10 +159,12 @@ p{
    .services #ser{
     margin: 0;
         width: 100%;
+        margin-bottom: 20px;
     }
     #service2 #ser{
         width: 100%;
         margin: 0;
+            margin-bottom: 20px;
     }
     h1{
         font-size: medium;
@@ -172,5 +174,8 @@ p{
     }
     #contact .design,.design1,.design2{
         display: none;
+    }
+    .logintime{
+        height: 500vh;
     }
 }
